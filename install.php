@@ -1,7 +1,5 @@
 <?php
 
-// korv
-
 require 'template_engine.php';
 template_engine('/templates/install'); // $m = new Mustache_Engine
 
